@@ -44,7 +44,7 @@ int main() {
 ```
 
 ## OUTPUT:
-<img width="1542" height="780" alt="image" src="https://github.com/user-attachments/assets/52291c4e-f452-4678-8474-e068429ba4e3" />
+<img width="1917" height="1022" alt="image" src="https://github.com/user-attachments/assets/f0bf065e-4250-400a-a326-a98e0d9f18e0" />
 
 ## RESULT :
  Thus the implementation of ceasar cipher had been executed successfully.
